@@ -1,0 +1,160 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+body{
+	background: #F0F0F0;
+}
+
+.top{
+	width: 100%;
+	height: 35px;
+	background-color: #000;
+}
+
+.top_left{
+	float: left;
+	width: 132px;
+	height: 35px;
+}
+
+.top_right image{
+	width:327px;
+	height: 35px;
+	float: right;
+}
+
+.top_right li{
+	height: 35px;
+	line-height: 35px;
+	width: 80px;
+	margin: 0 auto;
+	float: right;
+	list-style-type: none;
+}
+
+.top_right li a{
+	color: #FFF;
+	text-decoration: none;
+	font-size: 10px;
+}
+
+.content_1,.content_2,.content_3,.content_4{
+	width: 900px;
+	margin: 10px auto;
+	background-color: #FFF;
+}
+
+.content_5{
+	width: 400px;
+	margin: 10px auto;
+	background-color: #FFF;
+}
+
+.content_1_1{
+	padding: 10px 10px;
+}
+
+.content_1_1 h2{
+	font-size: 20px;
+	font-family: "楷体"；
+}
+
+.content_1_1 h3{
+	font-size: 16px;
+	margin: 10px 0px;
+	font-family: "楷体"；
+	color: #D6D4D4;
+}
+
+.p1{
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+
+.content_2 .content_1_1 ul{
+	list-style-type: none;
+}
+
+.ol_1,.ol_2,.ol_3,.ol_4{
+	border: 1px solid #E8E8E8;
+	width: 210px;
+	margin: 10px 40px 10px;
+
+}
+
+.content_3 p{
+	font-family: "楷体";
+	margin: 10px 10px;
+	font-size: 16px;
+}
+.ol_1_1,.ol_2_1,.ol_3_1,.ol_4_1{
+	text-align: center;
+	font-family: "楷体";
+	margin: 0px auto;
+	font-size: 14px;
+}
+
+.ol_1 img{
+	display: block;
+	margin: 0px auto;
+	width: 200px;
+}
+
+.content_4 ul li{
+	list-style-type: none;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.content_4 ul{
+	margin-left: 20px;
+}
+
+.table,.t{
+	border: 1px solid #E8E8E8;
+	border-collapse: collapse; 
+    margin: 0px auto;
+}
+
+.table{
+	width: 700px;
+	text-align: left;
+}
+
+.content_5 h2{
+	margin: 10px 10px;
+}
+
+.content_5_1{
+	width: 400px;
+	margin: 0px auto;
+	text-align: center;
+	line-height: 20px;
+}
+
+.submit{
+	background-color: #86CBFC;
+	width: 100px;
+	border-style: solid;
+	border: 0px;
+}
+
+.title{
+	text-align: center;
+}
+.content_1_1 ul{
+	list-style-type: none;
+}
+
+.content_left{
+	float: left;
+	margin: 10px; 
+}
+
+.content_right{
+	float: right;
+	margin: 10px;
+}
